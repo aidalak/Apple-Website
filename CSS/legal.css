@@ -10,7 +10,7 @@ body {
 }
 
 .img{
-    background-image: url(legal/legal.jpg);
+    background-image: url(legal/legal.webp);
     height: 60vh;
     width: 100%;
     background-position: center;
